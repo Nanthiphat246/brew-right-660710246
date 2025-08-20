@@ -38,10 +38,10 @@ docker-compose.yml
 
 ```python
 # app.py
-import streamlit as st
+  import streamlit as st
 
-st.title("Hello, Streamlit!")
-st.write("Welcome to your first Streamlit app running in Docker! 🚀")
+  st.title("Hello, Streamlit!")
+  st.write("Welcome to your first Streamlit app running in Docker! 🚀")
 ```
 
 ---
